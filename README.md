@@ -1,4 +1,5 @@
 <img width="1896" height="940" alt="preview" src="https://github.com/user-attachments/assets/3fb4cb3e-e5c8-4aa4-a50f-f865251eeabe" />
+
 # aurum-parfum
 
 AURUM — Премиальный бутик парфюмерии с эффектом стекла, анимациями и интерактивным дизайном.
